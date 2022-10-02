@@ -1,0 +1,18 @@
+body {
+    background-color: #3f423a; 
+}
+
+#starting_title { 
+    color: white; 
+    text-align: center; 
+}
+
+.start_menu 
+{ 
+    color: #3f423a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    width: 200px;
+}
